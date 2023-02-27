@@ -1,0 +1,17 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "my-api is for create fast endpoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "DanielT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
